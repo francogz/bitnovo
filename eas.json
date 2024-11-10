@@ -1,0 +1,15 @@
+{
+    "build": {
+        "production": {
+            "releaseChannel": "default",
+            "android": {
+                "gradleCommand": ":app:bundleRelease"
+            }
+        },
+        "preview": {
+            "android": {
+                "buildType": "apk"
+            }
+        }
+    }
+}

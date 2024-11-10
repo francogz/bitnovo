@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "España",
+        "code": "+34",
+        "flag": "https://flagcdn.com/w320/es.png",
+        "currency": "EUR"
+    },
+    {
+        "id": 2,
+        "name": "Equatorial Guinea",
+        "code": "+240",
+        "flag": "https://flagcdn.com/w320/gq.png",
+        "currency": "XAF"
+    },
+    {
+        "id": 3,
+        "name": "Grecia",
+        "code": "+30",
+        "flag": "https://flagcdn.com/w320/gr.png",
+        "currency": "EUR"
+    },
+    {
+        "id": 4,
+        "name": "Guatemala",
+        "code": "+502",
+        "flag": "https://flagcdn.com/w320/gt.png",
+        "currency": "GTQ"
+    },
+    {
+        "id": 5,
+        "name": "Guyana",
+        "code": "+592",
+        "flag": "https://flagcdn.com/w320/gy.png",
+        "currency": "GYD"
+    },
+    {
+        "id": 6,
+        "name": "Hong Kong",
+        "code": "+852",
+        "flag": "https://flagcdn.com/w320/hk.png",
+        "currency": "HKD"
+    },
+    {
+        "id": 7,
+        "name": "Honduras",
+        "code": "+504",
+        "flag": "https://flagcdn.com/w320/hn.png",
+        "currency": "HNL"
+    }
+]

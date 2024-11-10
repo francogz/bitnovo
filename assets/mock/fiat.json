@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Euro",
+      "code": "EUR",
+      "flagUrl": "https://flagcdn.com/w320/eu.png"
+    },
+    {
+      "id": 2,
+      "name": "Dólar Estadounidense",
+      "code": "USD",
+      "flagUrl": "https://flagcdn.com/w320/us.png"
+    },
+    {
+      "id": 3,
+      "name": "Libra Esterlina",
+      "code": "GBP",
+      "flagUrl": "https://flagcdn.com/w320/gb.png"
+    }
+  ]
+  
